@@ -1,0 +1,12 @@
+What we want:
+-driving (and turning): with encoder
+-driving (and turning): without encoder
+-color sensor: detect blue, red, black, and white
+-color sensor: outputs values
+-light sensor: follow the line function
+-light sensor: outputs values
+-ultrasonic sensor: outputs distance
+-touch sensor: output is pressed or not
+-RGB LED strip
+-servos: function and print values
+-
